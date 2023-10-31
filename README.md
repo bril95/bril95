@@ -9,7 +9,7 @@ I'm looking for a job as a Junior Frontend developer
 * 🌍  I'm based in Haifa, Israil
 * ✉️  You can contact me:
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/just_bill)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/just_brill)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brilvadim01@gmail.com)
 
 ### Skills
